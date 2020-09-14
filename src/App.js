@@ -5,7 +5,7 @@ function App() {
       <div className="grid-container">
             <header>
                 <nav>
-                  <a href="/">Shopping site</a>
+                    <a href="/">Shopping site</a>
                 </nav>
             </header>
             <main>This is main</main>
