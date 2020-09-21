@@ -16,9 +16,9 @@ class App extends React.Component {
       return (
         <div className="grid-container">
             <header>
-              <nav>
-                  <a href="/">Home</a>
-              </nav>
+                <nav>
+                    <a href="/">Shopping site</a>
+                </nav>
             </header>
             <main>
                 <div className="content">
